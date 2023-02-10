@@ -1,0 +1,5 @@
+oua 2 Firma1 5 10 Firma2 3 5
+lapte 3 Firma1 3 6 Firma2 1 10 Firma3 5 5
+faina 1 Firma1 50 10
+mere 2 Firma1 10 3 Firma2 5 5
+pere 1 Firma1 5 10

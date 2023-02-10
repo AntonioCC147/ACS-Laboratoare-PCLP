@@ -1,0 +1,4 @@
+lapte 5
+oua 3
+faina 10
+cereale 1
